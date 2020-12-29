@@ -1,0 +1,81 @@
+{
+   "name":"channel",
+   "value": {
+     "name": "2",
+     "number": "2.1",
+     "callSign": "TBN",
+     "affiliateCallSign": "TBN HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "3",
+     "number": "3.1",
+     "callSign": "NBC",
+     "affiliateCallSign": "WTAP HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "4",
+     "number": "4.1",
+     "callSign": "TBS",
+     "affiliateCallSign": ""
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "5",
+     "number": "5.1",
+     "callSign": "CW",
+     "affiliateCallSign": "THE CW HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "6",
+     "number": "6.1",
+     "callSign": "PBS",
+     "affiliateCallSign": "WVPB HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "7",
+     "number": "7.1",
+     "callSign": "Weather Channel",
+     "affiliateCallSign": "Weather Channel HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "8",
+     "number": "8.1",
+     "callSign": "ABC",
+     "affiliateCallSign": "WCHS HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "9",
+     "number": "9.1",
+     "callSign": "C-SPAN 2",
+     "affiliateCallSign": "C-SPAN 2 HD"
+  }
+}
+{
+   "name":"channel",
+   "value": {
+     "name": "10",
+     "number": "10.1",
+     "callSign": "C-SPAN",
+     "affiliateCallSign": "C-SPAN HD"
+  }
+}
